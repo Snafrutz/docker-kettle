@@ -1,5 +1,5 @@
 FROM java:latest
-MAINTAINER snafrutz <p.zerbini@shopfully.com>
+MAINTAINER snafrutz <piermarco.zerbini@gmail.com>
 RUN apt-get install wget bash
 
 # Install Kettle
